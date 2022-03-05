@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/augensternH/augenstern/precache-manifest.c2e4e26cd6459f889e6a0aa081deb69c.js"
+  "/augensternH/augenstern/precache-manifest.a74ae3b6e78957ef2ca0b242ab16d4f6.js"
 );
 
 workbox.clientsClaim();
