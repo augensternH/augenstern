@@ -1,0 +1,43 @@
+.wrap {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: rgb(37, 39, 39);
+}
+.row {
+  display: flex;
+  text-decoration: none;
+}
+.boxlogo {
+  padding-right: 4vw !important;
+  padding-left: 5px !important;
+}
+.box {
+  padding: 5px 20px 5px 20px;
+  border: 0;
+  border-style: solid;
+  border-right-width: 1px;
+  border-right-color: #fff;
+  line-height: 8vh;
+  opacity: 0.4;
+}
+.icon {
+  color: #fff;
+  padding-left: 20px;
+  padding-right: 2vw;
+  font-size: 50px;
+}
+.iconBack {
+  color: #fff;
+  font-size: 4vh;
+  padding: 0px 10px;
+}
+.h1 {
+  color: #fff;
+}
+.title {
+  font-size: 16px;
+  color: #fff;
+}

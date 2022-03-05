@@ -1,0 +1,451 @@
+{
+  "carts": [
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "price": 300,
+      "path": "/website-dong-ho",
+      "quan": 1,
+      "id": 1
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "quan": 1,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "msp": "SP1",
+      "description": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. ",
+      "write": "admin",
+      "imageMain": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "image": [
+        "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+        "images/z3232068853083_7d578ccc17e8ae8f5deea553e59b072c.jpg",
+        "images/z3232068853358_499f0ad324aa3c2fd586ff7ef12ac917.jpg",
+        "images/z3232068853360_daef8a94bc6889520705426dab170fa2.jpg"
+      ],
+      "price": "300",
+      "path": "/website-dong-ho",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg"
+      },
+      "text": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. Trong nền tảng WordPress, đó là một website tối ưu SEO với mọi cỗ máy tìm kiếm. Đó là website được thiết kế phiên bản di động hoàn thiện, tương thích với mọi thiết bị công nghệ. Đó là Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay có thể linh động thay đổi layout đáp ứng yêu cầu của người quản lý. Theme bán hàng WordPress tại Mona Media đáp ứng yêu cầu về một website bán hàng chuyên nghiệp. Kèm với đó, dịch vụ SEO tổng thể của chúng tôi đảm bảo tối ưu website trong thời gian sớm nhất.\n\nNgoài ra, bạn cũng có thể yêu cầu thiết kế website bán đồng hồ với những tính năng đặc thù theo yêu cầu của bạn, hỗ trợ bạn bán hàng và quản lý sản phẩm một cách hiệu quả và chính xác nhất, giúp bạn giảm khối lượng công việc hàng ngày, tăng doanh thu cho doanh nghiệp.",
+      "hightL": true,
+      "id": 1
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "msp": "SP2",
+      "description": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.",
+      "write": "admin",
+      "imageMain": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "image": [
+        "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+        "images/z3232069438868_f115067f1d3eda99c19748dccd138e71.jpg",
+        "images/z3232069439161_622d18e35ab71b85c2f5840d70a31e1d.jpg",
+        "images/z3232069439162_127e551beb95035df09e95dfb4324a0c.jpg"
+      ],
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg"
+      },
+      "text": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.\n\nGiao diện của mẫu web được thiết kế chuẩn SEO và hiển thị tốt trên di động, nếu các bạn ưng ý mẫu này chúng tôi sẽ thay đổi giao diện lại sao cho phù hợp với ý tưởng kinh doanh cũng như style của các bạn.\n\nVề chức năng thì đây là một website bán hàng online cho nên mọi chức năng đều đầy đủ từ đặt hàng, xem chi tiết sản phẩm, cập nhập giỏ hàng, thanh toán online, đặt hàng online, lấy thông tin khách hàng cũng như thông báo đơn hàng mới đến email. Tất cả đều có trong mẫu website bán hàng thời trang quần áo này. Cho dù bạn kinh doanh sản phẩm gì thì đây là mẫu website khiến bạn vừa lòng nhất vì đã có hơn 100 khách hàng đặt mẫu website này trong năm qua của chúng tôi.\n\nĐừng chần chừ nữa hãy liên hệ ngay để được tư vấn miễn phí nhé.",
+      "hightL": false,
+      "id": 2
+    },
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "msp": "SP1",
+      "description": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. ",
+      "write": "admin",
+      "imageMain": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "image": [
+        "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+        "images/z3232068853083_7d578ccc17e8ae8f5deea553e59b072c.jpg",
+        "images/z3232068853358_499f0ad324aa3c2fd586ff7ef12ac917.jpg",
+        "images/z3232068853360_daef8a94bc6889520705426dab170fa2.jpg"
+      ],
+      "price": "300",
+      "path": "/website-dong-ho",
+      "rated": {
+        "avrat": 3,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg"
+      },
+      "text": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. Trong nền tảng WordPress, đó là một website tối ưu SEO với mọi cỗ máy tìm kiếm. Đó là website được thiết kế phiên bản di động hoàn thiện, tương thích với mọi thiết bị công nghệ. Đó là Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay có thể linh động thay đổi layout đáp ứng yêu cầu của người quản lý. Theme bán hàng WordPress tại Mona Media đáp ứng yêu cầu về một website bán hàng chuyên nghiệp. Kèm với đó, dịch vụ SEO tổng thể của chúng tôi đảm bảo tối ưu website trong thời gian sớm nhất.\n\nNgoài ra, bạn cũng có thể yêu cầu thiết kế website bán đồng hồ với những tính năng đặc thù theo yêu cầu của bạn, hỗ trợ bạn bán hàng và quản lý sản phẩm một cách hiệu quả và chính xác nhất, giúp bạn giảm khối lượng công việc hàng ngày, tăng doanh thu cho doanh nghiệp.",
+      "hightL": true,
+      "id": 3
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "msp": "SP2",
+      "description": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.",
+      "write": "admin",
+      "imageMain": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "image": [
+        "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+        "images/z3232069438868_f115067f1d3eda99c19748dccd138e71.jpg",
+        "images/z3232069439161_622d18e35ab71b85c2f5840d70a31e1d.jpg",
+        "images/z3232069439162_127e551beb95035df09e95dfb4324a0c.jpg"
+      ],
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "rated": {
+        "avrat": 3,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg"
+      },
+      "text": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.\n\nGiao diện của mẫu web được thiết kế chuẩn SEO và hiển thị tốt trên di động, nếu các bạn ưng ý mẫu này chúng tôi sẽ thay đổi giao diện lại sao cho phù hợp với ý tưởng kinh doanh cũng như style của các bạn.\n\nVề chức năng thì đây là một website bán hàng online cho nên mọi chức năng đều đầy đủ từ đặt hàng, xem chi tiết sản phẩm, cập nhập giỏ hàng, thanh toán online, đặt hàng online, lấy thông tin khách hàng cũng như thông báo đơn hàng mới đến email. Tất cả đều có trong mẫu website bán hàng thời trang quần áo này. Cho dù bạn kinh doanh sản phẩm gì thì đây là mẫu website khiến bạn vừa lòng nhất vì đã có hơn 100 khách hàng đặt mẫu website này trong năm qua của chúng tôi.\n\nĐừng chần chừ nữa hãy liên hệ ngay để được tư vấn miễn phí nhé.",
+      "hightL": false,
+      "id": 4
+    },
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "msp": "SP1",
+      "description": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. ",
+      "write": "admin",
+      "imageMain": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "image": [
+        "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+        "images/z3232068853083_7d578ccc17e8ae8f5deea553e59b072c.jpg",
+        "images/z3232068853358_499f0ad324aa3c2fd586ff7ef12ac917.jpg",
+        "images/z3232068853360_daef8a94bc6889520705426dab170fa2.jpg"
+      ],
+      "price": "300",
+      "path": "/website-dong-ho",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg"
+      },
+      "text": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. Trong nền tảng WordPress, đó là một website tối ưu SEO với mọi cỗ máy tìm kiếm. Đó là website được thiết kế phiên bản di động hoàn thiện, tương thích với mọi thiết bị công nghệ. Đó là Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay có thể linh động thay đổi layout đáp ứng yêu cầu của người quản lý. Theme bán hàng WordPress tại Mona Media đáp ứng yêu cầu về một website bán hàng chuyên nghiệp. Kèm với đó, dịch vụ SEO tổng thể của chúng tôi đảm bảo tối ưu website trong thời gian sớm nhất.\n\nNgoài ra, bạn cũng có thể yêu cầu thiết kế website bán đồng hồ với những tính năng đặc thù theo yêu cầu của bạn, hỗ trợ bạn bán hàng và quản lý sản phẩm một cách hiệu quả và chính xác nhất, giúp bạn giảm khối lượng công việc hàng ngày, tăng doanh thu cho doanh nghiệp.",
+      "hightL": true,
+      "id": 5
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "msp": "SP2",
+      "description": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.",
+      "write": "admin",
+      "imageMain": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "image": [
+        "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+        "images/z3232069438868_f115067f1d3eda99c19748dccd138e71.jpg",
+        "images/z3232069439161_622d18e35ab71b85c2f5840d70a31e1d.jpg",
+        "images/z3232069439162_127e551beb95035df09e95dfb4324a0c.jpg"
+      ],
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg"
+      },
+      "text": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.\n\nGiao diện của mẫu web được thiết kế chuẩn SEO và hiển thị tốt trên di động, nếu các bạn ưng ý mẫu này chúng tôi sẽ thay đổi giao diện lại sao cho phù hợp với ý tưởng kinh doanh cũng như style của các bạn.\n\nVề chức năng thì đây là một website bán hàng online cho nên mọi chức năng đều đầy đủ từ đặt hàng, xem chi tiết sản phẩm, cập nhập giỏ hàng, thanh toán online, đặt hàng online, lấy thông tin khách hàng cũng như thông báo đơn hàng mới đến email. Tất cả đều có trong mẫu website bán hàng thời trang quần áo này. Cho dù bạn kinh doanh sản phẩm gì thì đây là mẫu website khiến bạn vừa lòng nhất vì đã có hơn 100 khách hàng đặt mẫu website này trong năm qua của chúng tôi.\n\nĐừng chần chừ nữa hãy liên hệ ngay để được tư vấn miễn phí nhé.",
+      "hightL": false,
+      "id": 6
+    },
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "msp": "SP1",
+      "description": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. ",
+      "write": "admin",
+      "imageMain": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "image": [
+        "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+        "images/z3232068853083_7d578ccc17e8ae8f5deea553e59b072c.jpg",
+        "images/z3232068853358_499f0ad324aa3c2fd586ff7ef12ac917.jpg",
+        "images/z3232068853360_daef8a94bc6889520705426dab170fa2.jpg"
+      ],
+      "price": "300",
+      "path": "/website-dong-ho",
+      "rated": {
+        "avrat": 3,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg"
+      },
+      "text": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. Trong nền tảng WordPress, đó là một website tối ưu SEO với mọi cỗ máy tìm kiếm. Đó là website được thiết kế phiên bản di động hoàn thiện, tương thích với mọi thiết bị công nghệ. Đó là Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay có thể linh động thay đổi layout đáp ứng yêu cầu của người quản lý. Theme bán hàng WordPress tại Mona Media đáp ứng yêu cầu về một website bán hàng chuyên nghiệp. Kèm với đó, dịch vụ SEO tổng thể của chúng tôi đảm bảo tối ưu website trong thời gian sớm nhất.\n\nNgoài ra, bạn cũng có thể yêu cầu thiết kế website bán đồng hồ với những tính năng đặc thù theo yêu cầu của bạn, hỗ trợ bạn bán hàng và quản lý sản phẩm một cách hiệu quả và chính xác nhất, giúp bạn giảm khối lượng công việc hàng ngày, tăng doanh thu cho doanh nghiệp.",
+      "hightL": true,
+      "id": 7
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "msp": "SP2",
+      "description": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.",
+      "write": "admin",
+      "imageMain": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "image": [
+        "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+        "images/z3232069438868_f115067f1d3eda99c19748dccd138e71.jpg",
+        "images/z3232069439161_622d18e35ab71b85c2f5840d70a31e1d.jpg",
+        "images/z3232069439162_127e551beb95035df09e95dfb4324a0c.jpg"
+      ],
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg"
+      },
+      "text": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.\n\nGiao diện của mẫu web được thiết kế chuẩn SEO và hiển thị tốt trên di động, nếu các bạn ưng ý mẫu này chúng tôi sẽ thay đổi giao diện lại sao cho phù hợp với ý tưởng kinh doanh cũng như style của các bạn.\n\nVề chức năng thì đây là một website bán hàng online cho nên mọi chức năng đều đầy đủ từ đặt hàng, xem chi tiết sản phẩm, cập nhập giỏ hàng, thanh toán online, đặt hàng online, lấy thông tin khách hàng cũng như thông báo đơn hàng mới đến email. Tất cả đều có trong mẫu website bán hàng thời trang quần áo này. Cho dù bạn kinh doanh sản phẩm gì thì đây là mẫu website khiến bạn vừa lòng nhất vì đã có hơn 100 khách hàng đặt mẫu website này trong năm qua của chúng tôi.\n\nĐừng chần chừ nữa hãy liên hệ ngay để được tư vấn miễn phí nhé.",
+      "hightL": false,
+      "id": 8
+    },
+    {
+      "name": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay",
+      "msp": "SP1",
+      "description": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. ",
+      "write": "admin",
+      "imageMain": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+      "image": [
+        "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg",
+        "images/z3232068853083_7d578ccc17e8ae8f5deea553e59b072c.jpg",
+        "images/z3232068853358_499f0ad324aa3c2fd586ff7ef12ac917.jpg",
+        "images/z3232068853360_daef8a94bc6889520705426dab170fa2.jpg"
+      ],
+      "price": "300",
+      "path": "/website-dong-ho",
+      "rated": {
+        "avrat": 3,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232068785502_9027441137142b4613dc81d880b35972.jpg"
+      },
+      "text": "Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay đẹp đáp ứng yêu cầu về giao diện bắt mắt, bố cục rõ ràng, trải nghiệm mới mẻ, thân thiện với người mua hàng. Trong nền tảng WordPress, đó là một website tối ưu SEO với mọi cỗ máy tìm kiếm. Đó là website được thiết kế phiên bản di động hoàn thiện, tương thích với mọi thiết bị công nghệ. Đó là Mẫu website đồng hồ – thiết bị đeo tay – phụ kiện đeo tay – trang sức đeo tay có thể linh động thay đổi layout đáp ứng yêu cầu của người quản lý. Theme bán hàng WordPress tại Mona Media đáp ứng yêu cầu về một website bán hàng chuyên nghiệp. Kèm với đó, dịch vụ SEO tổng thể của chúng tôi đảm bảo tối ưu website trong thời gian sớm nhất.\n\nNgoài ra, bạn cũng có thể yêu cầu thiết kế website bán đồng hồ với những tính năng đặc thù theo yêu cầu của bạn, hỗ trợ bạn bán hàng và quản lý sản phẩm một cách hiệu quả và chính xác nhất, giúp bạn giảm khối lượng công việc hàng ngày, tăng doanh thu cho doanh nghiệp.",
+      "hightL": true,
+      "id": 9
+    },
+    {
+      "name": "Website bán hàng thời trang quần áo",
+      "msp": "SP2",
+      "description": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.",
+      "write": "admin",
+      "imageMain": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+      "image": [
+        "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg",
+        "images/z3232069438868_f115067f1d3eda99c19748dccd138e71.jpg",
+        "images/z3232069439161_622d18e35ab71b85c2f5840d70a31e1d.jpg",
+        "images/z3232069439162_127e551beb95035df09e95dfb4324a0c.jpg"
+      ],
+      "price": "400",
+      "path": "/website-ban-hang-thoi-trang-quan-ao",
+      "rated": {
+        "avrat": 4.6,
+        "rat": [
+          5,
+          1,
+          4,
+          3,
+          4,
+          1,
+          4,
+          3,
+          1,
+          5
+        ]
+      },
+      "comment": {
+        "name": "Hằng Nguyễn",
+        "date": "22/12/2021",
+        "cmt": "tuyệt vời, không có giờ chê trách.",
+        "star": 5,
+        "image": "images/z3232069438825_b3b80a42d42252e4d67e58a7362ee87f.jpg"
+      },
+      "text": "Website bán hàng thời trang quần áo giống An Phước là mẫu website hiện đại và cực kỳ sang trọng với thiết kế tone màu đen xám trắng là sự phối hợp hoàn hảo để làm nên một website đẹp và sang trọng. Mẫu website bán hàng thời trang quần áo giúp cho những cửa hàng và shop có được một môi trường kinh doanh trên internet.\n\nGiao diện của mẫu web được thiết kế chuẩn SEO và hiển thị tốt trên di động, nếu các bạn ưng ý mẫu này chúng tôi sẽ thay đổi giao diện lại sao cho phù hợp với ý tưởng kinh doanh cũng như style của các bạn.\n\nVề chức năng thì đây là một website bán hàng online cho nên mọi chức năng đều đầy đủ từ đặt hàng, xem chi tiết sản phẩm, cập nhập giỏ hàng, thanh toán online, đặt hàng online, lấy thông tin khách hàng cũng như thông báo đơn hàng mới đến email. Tất cả đều có trong mẫu website bán hàng thời trang quần áo này. Cho dù bạn kinh doanh sản phẩm gì thì đây là mẫu website khiến bạn vừa lòng nhất vì đã có hơn 100 khách hàng đặt mẫu website này trong năm qua của chúng tôi.\n\nĐừng chần chừ nữa hãy liên hệ ngay để được tư vấn miễn phí nhé.",
+      "hightL": false,
+      "id": 10
+    }
+  ],
+  "Noification": [
+    {
+      "id": 1,
+      "content": " thông báo 1",
+      "path": "/2"
+    },
+    {
+      "id": 2,
+      "content": " thông báo 2",
+      "path": "/2"
+    },
+    {
+      "id": 3,
+      "content": " thông báo 3",
+      "path": "/2"
+    },
+    {
+      "id": 4,
+      "content": " thông báo 4",
+      "path": "/2"
+    }
+  ],
+  "selectSearch": [
+    {
+      "id": 1,
+      "select": "Tất cả",
+      "input": "null"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[{
+    "id":1,
+    "title":"Giá cả",
+    "name": "cost",
+    "content":{"1":"Tất cả","5":"a1","2":"Thấp nhất","6":"a2", "3":"Cao nhất","7":"a3","4":"Trong khoảng","8":"a4"}
+},
+{"id": 2,
+"title": "Chủ đề",
+"name": "topic",
+"content":{"1":"Thời trang","5":"a1","2":"Đồ điện tử","6":"a2", "3":"Nội thất","7":"a3", "4":"","8":"a4"}
+},
+{
+    "id": 3,
+    "title": "Màu sắc",
+    "name":"color",
+    "content":{"1":"Đen","5":"a1", "2":"Trắng","6":"a2", "3":"Hồng","7":"a3", "4":"Vàng","8":"a4"}
+}
+]

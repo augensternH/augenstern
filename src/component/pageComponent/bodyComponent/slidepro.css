@@ -1,0 +1,40 @@
+.slick-dots {
+  left: -130px !important;
+  top: 5px;
+}
+.slick-dots li {
+  position: relative;
+  left: -5px;
+  width: 100% !important;
+  height: 100px !important;
+  filter: grayscale(100%);
+}
+.slick-active {
+  filter: grayscale(0%) !important;
+}
+.custom-indicator {
+  width: 100px !important;
+  height: 100%;
+  overflow: hidden !important;
+}
+.custom-indicator li {
+  width: 50px;
+  height: 50px;
+  padding-right: 100px;
+  /* filter: grayscale(100%); */
+}
+.slick-next,
+.slick-prev {
+  height: 30px !important;
+  width: 30px !important;
+  color: #fff !important;
+  background-color: rgb(223, 215, 215) !important;
+  z-index: 1;
+  border-radius: 30px;
+}
+.slick-next {
+  right: -40px !important;
+}
+.slick-prev {
+  left: -30px !important;
+}

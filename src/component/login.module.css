@@ -1,0 +1,92 @@
+.wrap {
+  width: 800px;
+  height: 80vh;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+}
+.logo {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.row {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  padding: 20px 0px 0px 0px;
+}
+.right {
+  position: relative;
+}
+.close {
+  position: absolute;
+  right: 1vw;
+  top: -11vh;
+  cursor: pointer;
+  font-weight: 600;
+}
+.close:hover {
+  opacity: 0.6;
+  color: red;
+}
+.image {
+  /* position: absolute;
+  top: 1000%; */
+  max-width: 20rem;
+}
+.title {
+  font-size: 38px;
+  line-height: 40px;
+  margin-top: 30px;
+  font-weight: 700;
+  color: #0051ff;
+  padding-right: 10px;
+}
+.description {
+  opacity: 0.6;
+}
+.impotain {
+  color: red;
+}
+.input {
+  padding-left: 0.5rem;
+  width: 300px;
+  height: 30px;
+  outline: none;
+  border-radius: 10px;
+  border: 1;
+}
+.question {
+  font-weight: 600;
+  color: #0051ff;
+}
+.question:hover {
+  opacity: 0.6;
+}
+.button {
+  display: block;
+  margin-top: 20px;
+
+  background-color: #0051ff;
+  color: #fff;
+  height: 30px;
+  width: 80%;
+  cursor: pointer;
+}
+.overlay {
+  height: 200vh;
+  width: 200vw;
+  background-color: rgba(0, 0, 0, 0.1);
+  position: relative;
+  top: 6vh;
+  left: -100vw;
+  z-index: -1;
+}
+.abc {
+  position: absolute;
+  top: 2vh;
+  bottom: 5vh;
+  right: 30vw;
+  z-index: 2;
+}

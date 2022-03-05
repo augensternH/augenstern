@@ -1,0 +1,34 @@
+.wrap {
+  margin-left: 20px;
+  width: 800px;
+  max-height: 800px;
+  padding-bottom: 100px;
+}
+.wrapB {
+  width: 600px !important;
+  padding-left: 150px;
+}
+.image {
+  width: 600px;
+  height: 70vh;
+  object-fit: cover;
+}
+.image:hover {
+  transition-duration: 1s;
+}
+.row {
+  display: flex;
+}
+.PL {
+  position: absolute;
+  transition-duration: 2s;
+  animation-name: fade;
+}
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,98 @@
+.wrap {
+  background-color: #ada9bb;
+  display: flex;
+  padding: 20px 0px 20px 0px;
+}
+.left {
+  width: 400px;
+  height: auto;
+  border: 0;
+  border-style: solid;
+  border-right-width: 2px;
+  border-color: rgba(0, 0, 0, 0.6);
+  box-sizing: border-box;
+  padding-left: 54px;
+}
+.right {
+  width: 100%;
+}
+.textLeft {
+  font-weight: 700;
+}
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.icon {
+  color: #fff;
+  flex: 0 1 10%;
+}
+.contact {
+  display: block;
+  font-weight: 700;
+}
+.map {
+  color: #333;
+  font-weight: 400;
+}
+.right {
+  padding-left: 50px;
+}
+.boxNewInfor {
+  max-height: 30px;
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 30px;
+  position: relative;
+  max-width: 700px;
+}
+.input {
+  height: 30px;
+  width: 500px;
+  border: 0;
+  outline: none;
+  background-color: rgba(255, 255, 255, 0);
+  margin-left: 20px;
+}
+.button {
+  height: 34px;
+  width: 100px;
+  border: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-bottom-right-radius: 14px;
+  border-top-right-radius: 14px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 600;
+  position: absolute;
+  right: 0%;
+  top: -2px;
+}
+.h1 {
+  font-size: 24px;
+}
+.link {
+  text-decoration: none;
+}
+.text {
+  color: #333;
+  font-weight: 460;
+  padding-top: 5px;
+}
+.rightEnd {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.col {
+  flex: 0 1 30.3333333333333333334%;
+}

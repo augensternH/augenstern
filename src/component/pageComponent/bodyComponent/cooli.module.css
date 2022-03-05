@@ -1,0 +1,108 @@
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+}
+.wrap {
+  position: absolute;
+  top: 5vh;
+}
+.close {
+  position: absolute;
+  right: 1vw;
+  top: 1vh;
+  opacity: 0.4;
+  cursor: pointer;
+}
+.close:hover {
+  color: rgb(206, 14, 14);
+  opacity: 0.7;
+}
+.WBar {
+  margin-bottom: 2vh;
+}
+.bar {
+  margin-left: 5vw;
+  cursor: pointer;
+}
+.textBar {
+  margin-left: 15px;
+  opacity: 0.9;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.nav_menu {
+  display: block;
+  background-color: rgba(236, 223, 223, 0.4);
+  width: 250px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 0px;
+  top: 0vh;
+  transition-duration: 1s;
+  box-shadow: 6px -1px 10px rgb(102, 99, 99);
+  border: 0;
+}
+.nav_menu2 {
+  height: 200vh;
+}
+.active {
+  left: 0;
+  transform: translateX(-550px);
+  transition-duration: 1s;
+}
+
+.h2T {
+  color: red;
+  line-height: 40px;
+  font-weight: 600;
+}
+.wrap__cooli {
+  margin-left: -40px;
+  display: inline;
+}
+.des {
+  margin-left: 5px;
+  line-height: 30px;
+  transform: translateY(-10px);
+}
+.radi {
+  cursor: pointer;
+}
+.radi:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+  border: 0;
+}
+.col {
+  padding-top: 10vh;
+  padding-left: 23vw;
+  width: 80vw;
+  transition-duration: 2s;
+}
+.col1 {
+  padding-top: 10vh;
+  padding-left: 5vw;
+  width: 100vw;
+  transition-duration: 1s;
+}
+.result {
+  color: blue;
+  font-weight: 600;
+  margin-right: 1rem;
+}
+.right {
+  position: relative;
+  top: -20px;
+  right: -75vw;
+  display: flex;
+}
+.se {
+  width: 8vw;
+  cursor: pointer;
+}

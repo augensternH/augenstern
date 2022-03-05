@@ -1,0 +1,40 @@
+.wrap {
+  margin-left: 4vw;
+  margin-top: 4vh;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  width: 350px;
+  height: 88vh;
+  overflow-x: hidden;
+  overflow-y: none;
+  padding-left: 10%;
+}
+.img {
+  max-height: 250px;
+  max-width: 250px;
+  object-fit: cover;
+  transition-duration: 1s;
+}
+.provide {
+  text-decoration: none;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.5);
+}
+.title {
+  width: 250px;
+  overflow: hidden;
+  /* word-wrap: break-word; */
+  line-height: 25px;
+  -webkit-line-clamp: 2;
+  max-height: 53px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+
+  font-weight: 400;
+  opacity: 0.9;
+}
+.link {
+  color: #333;
+  text-decoration: none;
+}

@@ -1,0 +1,22 @@
+.wrap {
+  position: relative;
+  padding-top: 2rem;
+  display: flex;
+  max-width: 100%;
+  max-height: 600px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.left {
+  max-width: 50%;
+}
+
+.img2 {
+  margin-left: 1rem;
+  max-width: 100%;
+}
+.img3 {
+  margin-left: 1rem;
+  max-width: 100%;
+}

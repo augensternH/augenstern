@@ -1,0 +1,32 @@
+.wrap {
+  display: flex;
+  position: relative;
+}
+
+.dash {
+  position: relative;
+  left: 1rem;
+  top: 1.8rem;
+  height: 20px;
+
+  border-left-style: solid;
+  border-left-width: 3px;
+  opacity: 0.4;
+}
+/* .p {
+  position: relative;
+  left: 2rem;
+  top: 1.8rem;
+  opacity: 0.6;
+
+  /* temp cursor */
+/* cursor: pointer;
+} */
+.link {
+  color: #333;
+  text-decoration: none;
+  position: relative;
+  left: 2rem;
+  top: 1.8rem;
+  opacity: 0.6;
+}

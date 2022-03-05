@@ -1,0 +1,144 @@
+.row {
+  display: flex;
+  padding: 4vh 0vh;
+  margin-top: 2vh;
+}
+.row2 {
+  display: flex;
+}
+.disN {
+  display: none;
+}
+.click {
+  position: absolute;
+  z-index: 3;
+  height: 2vh;
+  width: 1vw;
+}
+.bl {
+  height: 1vh;
+  padding-left: 0.5vw;
+}
+.quan {
+  position: relative;
+}
+.up {
+  margin-top: 30px;
+  height: 20px;
+
+  line-height: 10px;
+  cursor: pointer;
+  z-index: 1;
+}
+.up:active {
+  transform: scale(4);
+  font-weight: 500;
+  transition-duration: 1s;
+}
+.down {
+  height: 20px;
+
+  line-height: 12px;
+  cursor: pointer;
+}
+.down:active {
+  transform: scale(4);
+  font-weight: 500;
+  transition-duration: 1s;
+}
+
+.col1 {
+  width: 30vw;
+  list-style: none;
+}
+.col2 {
+  list-style: none;
+  width: 14vw;
+}
+
+.wrapW {
+  width: 100%;
+}
+.wrap {
+  width: 80%;
+  margin-left: 10vw;
+}
+.bb {
+  border: 0;
+  border-style: solid;
+  border-bottom-width: 2px;
+  border-top-width: 2px;
+  border-color: rgb(230, 225, 225);
+}
+.image {
+  width: 20vw;
+  max-height: 20vh;
+  overflow-y: hidden;
+  object-fit: cover;
+}
+.h3 {
+  width: 100%;
+  font-size: 24px;
+  overflow: hidden;
+  line-height: 30px;
+  -webkit-line-clamp: 3;
+  max-height: 90px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  font-weight: 700;
+}
+.lh {
+  line-height: 90px;
+}
+.remove {
+  width: 4vw;
+  line-height: 20px;
+  margin-top: 5vh;
+  cursor: pointer;
+}
+.remove:active {
+  transform: scale(1.2);
+  transition-duration: 1s;
+}
+.rowLast {
+  padding: 10px 0px;
+}
+.input {
+  margin-left: 5px;
+  height: 3vh;
+  background-color: rgb(228, 220, 220);
+  height: 100%;
+  border-radius: 10px;
+  border: 0px;
+  padding-left: 10px;
+  outline: none;
+}
+.coll {
+  width: 60%;
+}
+.right {
+  padding-top: 5px;
+}
+
+.ml {
+  margin-left: 30px;
+}
+.btn {
+  color: #333;
+  background-color: rgb(37, 89, 201);
+  height: 5vh;
+  width: 8vw;
+  box-sizing: border-box;
+  margin-left: 20px;
+  font-weight: 700;
+  line-height: 5vh;
+  padding-left: 1.2vw;
+}
+.sub {
+  cursor: pointer;
+}
+.sub:active {
+  transform: scale(1.8);
+  transition-duration: 1s;
+}

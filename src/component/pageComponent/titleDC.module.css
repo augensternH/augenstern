@@ -1,0 +1,25 @@
+.wrap {
+  width: 100%;
+  height: auto;
+}
+
+.description {
+  opacity: 0.5;
+}
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.col {
+  padding-top: 10vh;
+  padding-left: 20vw;
+  width: 80vw;
+}
+.footerZ {
+  position: relative;
+  width: 100vw;
+}

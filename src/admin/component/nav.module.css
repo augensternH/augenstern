@@ -1,0 +1,103 @@
+.wrap__F {
+  margin-top: 9.7vh;
+}
+.wrap {
+  width: 15vw;
+  box-shadow: 1px 1px 10px #333;
+}
+.row {
+  display: flex;
+}
+.bb {
+  border: 0;
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(185, 183, 183);
+}
+.box {
+  padding: 5px 10px 5px 10px;
+  position: relative;
+}
+.icon {
+  font-size: 20px;
+  padding-right: 5px;
+}
+.icon__c2 {
+  font-size: 15px;
+  padding-right: 5px;
+}
+.icon__r {
+  position: absolute;
+  right: 2px;
+  line-height: 4.5vh;
+}
+
+.pointer {
+  cursor: pointer;
+}
+.pointer:active {
+  background-color: rgb(53, 55, 58);
+  transition-duration: 0.5s;
+}
+.h3 {
+  font-weight: 400;
+  font-size: 16px;
+}
+.c2_dn {
+  display: none;
+}
+.c2_down {
+}
+.wrap__2 {
+  margin-left: 1vw;
+  margin-top: 2vh;
+}
+.b {
+  border: 1px;
+  border-style: solid;
+}
+.pb {
+  padding-bottom: 10px;
+}
+.br {
+  border: 0;
+  border-style: solid;
+  border-right-width: 1px;
+}
+.head {
+  max-height: 4vh;
+}
+.col30 {
+  width: 30vw;
+}
+.col15 {
+  width: 15vw;
+  max-height: 10vh;
+}
+.infG {
+}
+.titleInf {
+  color: blue;
+}
+.image {
+  max-height: 20vh;
+  object-fit: cover;
+}
+.input {
+  width: 20vw;
+  outline: none;
+}
+.btn {
+  line-height: 30px;
+  width: 120px;
+  background-color: rgb(161, 168, 168);
+  justify-content: center;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.btn:active {
+  color: #fff;
+  background-color: blue;
+  transform: scale(1.1);
+}

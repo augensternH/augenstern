@@ -1,0 +1,10 @@
+.wrap {
+  box-sizing: border-box;
+  padding: 5vh 20vw;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.numPage {
+  cursor: pointer;
+}

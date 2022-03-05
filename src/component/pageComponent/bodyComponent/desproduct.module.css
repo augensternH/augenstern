@@ -1,0 +1,27 @@
+.wrap {
+  padding-left: 20px;
+}
+.h1M {
+  line-height: 90px;
+}
+.des {
+  width: 100%;
+  overflow: hidden;
+  /* word-wrap: break-word; */
+  line-height: 25px;
+  -webkit-line-clamp: 12;
+  max-height: 600px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+des__2 {
+  width: 100%;
+}
+.btn {
+  cursor: pointer;
+  text-align: center;
+  color: rgb(53, 8, 8);
+}
+.dN {
+  display: none;
+}
